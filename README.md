@@ -1,6 +1,6 @@
 Jason | Software & Game Dev Student
 
-Software ddevelopment and Game development Enthusiast. Currently exploring the intersection of web tech and game design.
+Software Development and Game development Enthusiast. Currently exploring the intersection of web tech and game design.
 
     🎓 University Student
 
@@ -9,4 +9,4 @@ Software ddevelopment and Game development Enthusiast. Currently exploring the i
     🚀 Learning: React & Godot.
 
     ### 📫 Let's Connect
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasonkangogo3@gmail.com)
+[![My Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasonkangogo3@gmail.com)
