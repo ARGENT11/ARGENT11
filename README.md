@@ -1,5 +1,10 @@
+
+
+
+
+
 # 💫 About Me:
-Jason | Software & Game Dev Student<br><br>Software Development and Game development Enthusiast. Currently exploring the intersection of web tech and game design.<br><br>    🎓 University Student<br><br>    🛠 Tech Stack: Java, C++, Python, JS, SQL, GDScript.<br><br>    🚀 Learning: React & Godot.<br><br>    ### 📫 Let's Connect<br>[![My Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasonkangogo3@gmail.com)
+Jason | Software & Game Dev Student<br><br>Software Development and Game development Enthusiast. Currently exploring  web tech and game design.<br><br>    🎓 University Student<br><br>    🛠 Tech Stack: Java, C++, Python, JS, SQL, GDScript.<br><br>    🚀 Learning: React & Godot.<br><br>    ### 📫 Let's Connect<br>[![My Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasonkangogo3@gmail.com)
 
 
 # 💻 Tech Stack:
